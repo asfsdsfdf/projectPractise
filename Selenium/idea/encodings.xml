@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/core/ElementFinder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/core/WebDriverEngine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/core/WebTestListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/dataprovider/ExcelDataProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/demo/Admin_Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/demo/Send_163email.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/demo/comment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/demo/inpimg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/demo/text.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/listen/JavaMailTestListener.java" charset="GBK" />
+  </component>
+</project>
